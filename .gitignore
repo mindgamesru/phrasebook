@@ -1,0 +1,41 @@
+.idea/*
+.DS_Store
+misc.xml
+pritle_js/common/controls.html
+pritle_js/common/css/import/**/*.css
+pritle_js/app/layouts/**/*.html
+pritle_js/app/modules/**/*.html
+pritle_js/common/assets/*
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+pritle_js/common/assets
+pritle_js/common/index.html
+pritle_js/common/admin/index.html
+pritle_js/common/admin/assets
+pritle_js/node_modules/gulp-imagemin
+pritle_js/node_modules/imagemin-pngquant
+pritle_js/forms/wp-register/common
